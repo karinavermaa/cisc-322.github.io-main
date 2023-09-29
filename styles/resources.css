@@ -1,0 +1,16 @@
+.resource-links {
+    list-style-type: none;
+    display: flow;
+    justify-content: space-evenly;
+  }
+  
+  .rs-link {
+    /*color: #6D85FF;*/
+    color: #82bd8c;
+  }
+  
+  .rs-link:hover {
+    color:  #93d1e7;
+    text-decoration: underline;
+    transition: 0.4s ease-in;
+  }

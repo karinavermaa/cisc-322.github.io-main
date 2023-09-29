@@ -1,0 +1,7 @@
+/* Use this file with the live sass extension (VSCode) to compile the css. Add a @use tag
+   for any scss files you create. When any scss file is saved, it will autocompile the css. 
+
+*/
+@use "_navbar.scss";
+@use "_margins.scss";
+@use "_landing.scss";
